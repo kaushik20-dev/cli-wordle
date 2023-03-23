@@ -1,0 +1,2 @@
+# cli-wordle
+Wordle game
